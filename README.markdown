@@ -1,8 +1,10 @@
-# blank
+# loadleveller
 
-This is a blank puppet module.
+This is a loadleveller puppet module.
 
-*NOTE:* Check README1st.markdown for usage of the blank puppet module template.
+# References
+
+* [Official Tivoli LoadLeveller web site](http://www-03.ibm.com/systems/software/loadleveler/)
 
 # Licensing
 
